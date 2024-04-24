@@ -6,12 +6,12 @@
 /*   By: jaehukim <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 23:40:01 by jaehukim          #+#    #+#             */
-/*   Updated: 2024/04/22 21:44:24 by jaehukim         ###   ########.fr       */
+/*   Updated: 2024/04/24 11:36:11 by jaehukim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include "ft_printf.h"
 
-int	ft_putnbr(int n, int cnt)
+static int	ft_putnbr(int n, int cnt)
 {
 	char	c;
 

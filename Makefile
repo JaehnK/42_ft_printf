@@ -6,7 +6,7 @@
 #    By: jaehukim <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/19 13:57:44 by jaehukim          #+#    #+#              #
-#    Updated: 2024/04/22 20:22:47 by jaehukim         ###   ########.fr        #
+#    Updated: 2024/04/23 16:25:15 by jaehukim         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -44,4 +44,4 @@ re:
 	make fclean
 	make all
 
-.PHONY: al clean fclean re
+.PHONY: all clean fclean re
